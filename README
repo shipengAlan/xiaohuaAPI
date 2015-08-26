@@ -1,0 +1,5 @@
+封装了获取笑话的接口
+使用requests发送请求
+lxml解析数据
+返回json数据
+基于Flask
